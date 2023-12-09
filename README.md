@@ -54,4 +54,4 @@ Setting up an Uptime Kuma server in Proxmox involves several steps. Here's a gen
 7. **Access Uptime Kuma Interface**:
    - Open a web browser and go to the IP address or domain name of your Proxmox server, followed by the port number that Uptime Kuma is configured to use (by default, it's often port 3001): `http://your_server_ip:3001`
 
-Remember, these steps provide a general guideline. Always refer to the official documentation of Uptime Kuma for specific instructions and any potential updates or changes that might have occurred since my last knowledge update in January 2022.
+Remember, these steps provide a general guideline. Always refer to the official documentation of Uptime Kuma for specific instructions and any potential updates or changes.
